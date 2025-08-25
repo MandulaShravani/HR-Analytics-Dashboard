@@ -12,7 +12,7 @@ The report provides management with interactive dashboards to make data-driven d
 - Performance tracking over time
 - Interactive visuals including:
   - Pie / Donut charts (Marital Status, Ethnicity distribution)
-  - Tree Map (Active Employees by Department & Job Role)
+  - Clustered Bar chart (Active Employees by Department & Job Role)
   - Clustered Column / Bar charts (Attrition & Performance trends)
   - Card visuals (KPIs such as Total Employees, Active Employees, Inactive Employees)
 
